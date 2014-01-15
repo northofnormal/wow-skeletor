@@ -4,7 +4,7 @@ skeletor Install Profile
 This is the D7 install profile for the skeletor project, to set up an
 appropriate layout for a build-based development strategy, striving
 toward continuous delivery and great good.
-
+~**WHOA!!! This is awesome! Look at how great this line of text is!~%~
 Layout
 ------
 
